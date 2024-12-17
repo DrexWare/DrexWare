@@ -31,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drexxy&show_icons=true&locale=en&layout=compact" alt="drexxy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drexxy&show_icons=true&locale=en" alt="drexxy" /></p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Drexware?cardType=github&theme=monokai&preferLogin=false&Text=DD0000)](https://git.io/awesome-stats-card)
