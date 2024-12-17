@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Drexxy</h1>
+<h1 align="center">Hi, I'm Drexxy</h1>
 <h3 align="center">The head cheat developer for Drexware</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drexxy&label=Profile%20views&color=0e75b6&style=flat" alt="drexxy" /> </p>
 
-- 🔭 I’m currently working on [Valorant cheat](https://discord.gg/Mvdfs2bk)
+- 🔭 I’m currently working on [Combat master and cs2 cheats](https://dsc.gg/drexware)
 
 - 🌱 I’m currently learning **how to create and use drivers**
 
-- 👯 I'm looking to share [Free cs2 cheat and others](https://discord.gg/Mvdfs2bk)
+- 👯 I'm looking to share [Free cs2 cheat and others](https://dsc.gg/drexware)
 
 - 🤝 I’m looking for help with **Valorant cheats**
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/Mvdfs2bk](https://discord.gg/Mvdfs2bk)
+- 👨‍💻 All of my projects are available at [https://discord.gg/Mvdfs2bk](https://dsc.gg/drexware)
 
-- 📝 I regularly write announcements on [https://discord.gg/Mvdfs2bk](https://discord.gg/Mvdfs2bk)
+- 📝 I regularly write announcements on [https://discord.gg/Mvdfs2bk](https://dsc.gg/drexware)
 
 - 💬 Ask me about **anticheat and cheat development**
 
